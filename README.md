@@ -5,5 +5,5 @@ This is a project developed for an independent study course with Dr. Jianwei Niu
 ## Features
 - Account creation and login
 - Auth using JWT
-- Message between customer user and support user
+- Send messages between customer user and support user
 - Send broadcast messages for all users to see
