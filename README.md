@@ -1,8 +1,6 @@
 # Mock Customer Service API
 
-This project was developed for an independent study course with Dr. Jianwei Niu at UTSA. It's a (very) simple RESTful API for a mock bank customer service system. It's built using Node, Hapi, and MongoDB. It's setup for Docker and Docker Compose.
-
-This project actually spans two repos with this acting as a kind of version 1. A more developed version is in this [repo](v2-repo).
+This project was developed for an independent study course with Dr. Jianwei Niu at UTSA. It's a (very) simple RESTful API for a mock bank customer service system. It's built using Node, Hapi, and MongoDB. It's setup for Docker and Docker Compose. This project actually spans two repos with this repo acting as a kind of version 1. A more developed version is available [here](v2-repo).
 
 ## Features
 - Account creation and login
